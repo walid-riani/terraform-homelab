@@ -1,6 +1,6 @@
-# Terraform directories & files to ignore
+# Terraform-bestanden die je niet wil tracken
 .terraform/
-terraform.tfstate
-terraform.tfstate.backup
 *.tfstate
 *.tfstate.*
+.terraform.lock.hcl
+terraform.tfvars
